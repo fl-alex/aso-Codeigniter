@@ -1,1 +1,2 @@
-s
+user: "super admin"
+password: "password"
